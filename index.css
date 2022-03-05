@@ -1,0 +1,44 @@
+* {
+    font-size: 15px;
+    font-family: 'Outfit', sans-serif;
+}
+
+body {
+    background-color: hsl(212, 45%, 89%);
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+}
+
+.card {
+    border-radius: 15px;
+    width: 19rem;
+    background-color: #fff;
+    padding: 1rem;
+    height: 31rem;
+}
+
+img {
+    width: 100%;
+    border-radius: 15px;
+}
+
+p {
+    text-align: center;
+}
+
+#first {
+    font-weight: 700;
+    font-size: 1.5rem;
+    padding: 0 0.5rem;
+    color: hsl(218, 44%, 22%);
+}
+
+#second {
+    font-weight: 400;
+    color: hsl(220, 15%, 55%);
+    padding: 0 0.5rem;
+
+}
