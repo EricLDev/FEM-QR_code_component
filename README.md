@@ -1,7 +1,7 @@
 ### Links
 
 - Solution URL: [https://www.frontendmentor.io/solutions/qr-component-using-htmlcss-OevgariYJ]
-- Live Site URL: [https://ericl81.github.io/FEM-QR_code_component/]
+- Live Site URL: [https://ericldev.github.io/FEM-QR_code_component/]
 
 # Frontend Mentor - QR code component
 
